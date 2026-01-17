@@ -5,3 +5,6 @@
 [submodule "valdr"]
 	path = valdr
 	url = https://github.com/cran/valdr
+[submodule "valdrViz"]
+	path = valdrViz
+	url = https://github.com/cran/valdrViz
